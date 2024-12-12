@@ -38,6 +38,7 @@ This modules depends upon the following.
 
 - `Microsoft.Graph.Authentication`
 - `Microsoft.Graph.Identity.Governance`
+- `Microsoft.Graph.Identity.SignIns`
 - `Microsoft.PowerShell.ConsoleGuiTools`
 - `Microsoft.Graph.Users`
 - `Microsoft.Graph.Identity.DirectoryManagement`
